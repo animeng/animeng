@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on alibaba
-- 🌱 I’m currently learning swift
+- 🌱 I’m currently learning flutter
 - 💬 Ask me about iOS develop
 - 📫 How to reach me: https://mengtnt.com
 - 😄 Pronouns: munger
