@@ -7,7 +7,7 @@
 - 😄 Pronouns: munger
 - ⚡  Fun fact: *football*  *MobaGame*
 - 💼 work: mobile programer
-- 📜 achievement: **Tiki** | **NetEase Music** | **dingtalk**
+- 📜 achievement: **Tiki** | **NetEase Music** | **DingTalk**
 
 Like to learn some interesting things and meet some interesting people. As a programer, I am working to make some useful program and hope to help some people by my program. I like the motto「Unus pro omnibus, omnes pro uno」.
 
